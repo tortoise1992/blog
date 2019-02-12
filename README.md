@@ -1,16 +1,8 @@
 ## 前言:
-> 
+> 子曰：学而不思则罔，思而不学则殆。2019年，给自己定个目标，每周更新一篇文章，涉及的内容包括前端、后端、运维甚至于生活。希望能给到访的诸位一些启示，共同成长。
 
-![image](demo/images/10.gif)
-
-```
-<script src=`jquery.min.js`></script>
-<script>if (typeof module === 'object') {window.jQuery = window.$ = module.exports;};</script>
-```   
-
-### 主进程:
-* [整体控制](api/app.md)              
+### React:
+* [整体控制](blogs/test.md)              
                          
 
 
-保留一点md语法的例子
